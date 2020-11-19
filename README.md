@@ -123,9 +123,9 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
+Courses | Duration | Effort | Prerequisites | Discussion | Progress
+:-- | :--: | :--: | :--: | :--: | :--:
+[Python for Everybody](https://www.py4e.com/) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z) | - [ ]
 
 ### Introduction to Computer Science
 
